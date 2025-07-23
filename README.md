@@ -18,8 +18,6 @@ This project is a **complete relational database system** for a fictional music 
 
 ---
 
-🛠 Installation & Setup 
-
 ### Prerequisites 
 - **MySQL Server** (8.0+)  
 - **Python 3.8+**  
@@ -60,17 +58,3 @@ This project is a **complete relational database system** for a fictional music 
 3. Commit changes (`git commit -m "Add feature"`)  
 4. Push to the branch (`git push origin feature/your-feature`)  
 5. Open a **Pull Request**  
-
----
-
-## 📬 Contact  
-For questions or feedback:  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-
----
-🌟 Enjoy the project? Give it a star! ⭐  
-
---- 
-
-This **README.md** provides a **professional, structured overview** of your GitHub repository, making it easy for recruiters, collaborators, and users to understand and use your project. Let me know if you'd like any refinements! 🚀
